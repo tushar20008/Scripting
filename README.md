@@ -3,11 +3,15 @@ Python Scripts to Automate Tasks
 - Created using Python language and Selenium API
 - Includes a Demo of the script running
 
+Software Requried : 
+- Jupyter Notebook (http://jupyter.org/install)
+- Google driver for Selenium (https://sites.google.com/a/chromium.org/chromedriver/downloads)
+
 Steps to to run:
 
 1) Download the script
-2) Fill in the correct values for the user in the script
-3) Compile and run the program.
+2) Generally the script requires you to fill in the username, password, searchURL / searchID, etc.
+3) Execute the program.
 
 Goal : Auto apply for jobs using the site's easyapply feature.
 
