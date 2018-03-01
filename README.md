@@ -16,3 +16,6 @@ Steps to to run:
 Goal : Auto apply for jobs using the site's easyapply feature.
 
 Limitation : Does not apply for jobs with external links.
+
+# Contact
+Please email any questions or comments to tusharanand20008@gmail.com.
