@@ -17,8 +17,5 @@ Python Scripts to Automate Tasks
 
 **Limitation :** Does not apply for jobs with external links.
 
-## Contact
-Please email any questions or comments to tusharanand20008@gmail.com.
-
 ## License
 The content of this project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
